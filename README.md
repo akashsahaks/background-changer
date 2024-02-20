@@ -1,1 +1,3 @@
-# Background Changer ReactJS Web Application
+# Background Changer - ReactJS
+
+-  This is a background color changer web application in ReactJs.
